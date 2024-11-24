@@ -102,5 +102,5 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:spinninglight/spinninglight.git
+  repo: git@github.com:spinninglight/spinninglight.github.io.git
   branch: master
