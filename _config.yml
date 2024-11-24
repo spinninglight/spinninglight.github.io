@@ -18,12 +18,12 @@ navbar:
 
   # 首页副标题的独立设置
   # Independent config of home page subtitle
-slogan:
-  enable: true
-
-  # 为空则按 hexo config.subtitle 显示
-  # If empty, text based on `subtitle` in hexo config
-  text: "心情普通"
+index:
+  slogan:
+    enable: true
+    # 为空则按 hexo config.subtitle 显示
+    # If empty, text based on `subtitle` in hexo config
+    text: "心情普通"
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
