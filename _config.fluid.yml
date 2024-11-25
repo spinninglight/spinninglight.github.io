@@ -21,7 +21,7 @@ index:
     enable: true
     # 为空则按 hexo config.subtitle 显示
     # If empty, text based on `subtitle` in hexo config
-    text: "心情普通"
+    text: "爱好写代码和打游戏的大学生"
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
