@@ -4,6 +4,44 @@
   
   
   <entry>
+    <title>11月周记</title>
+    <link href="/2024/11/25/record/"/>
+    <url>/2024/11/25/record/</url>
+    
+    <content type="html"><![CDATA[<h2 id="入职"><a href="#入职" class="headerlink" title="入职"></a>入职</h2><blockquote><p>入职了一家初创公司<br>做ai视频生成的后端架构<br>比起在大厂的流水线+大螺丝，在小厂就可以体会一个人干完整个后端的活的感觉<br>得空还要经常参加产品会，有点忙<br>目前的期望是早点下班</p></blockquote><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><blockquote><p>广州的物价还是比较亲民的</p></blockquote>]]></content>
+    
+    
+    <categories>
+      
+      <category>记录</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>11月刷题总结</title>
+    <link href="/2024/11/25/leetcode/"/>
+    <url>/2024/11/25/leetcode/</url>
+    
+    <content type="html"><![CDATA[<h2 id="按照数据结构划分"><a href="#按照数据结构划分" class="headerlink" title="按照数据结构划分"></a>按照数据结构划分</h2><h3 id="链表类"><a href="#链表类" class="headerlink" title="链表类"></a>链表类</h3><h4 id="快慢指针"><a href="#快慢指针" class="headerlink" title="快慢指针"></a>快慢指针</h4><ul><li>环形链表，判断有无环、找出入环点</li></ul><h4 id="哑指针："><a href="#哑指针：" class="headerlink" title="哑指针："></a>哑指针：</h4><ul><li>头节点被更改，要返回整个链表</li></ul><h4 id="固定间隔指针同时移动：倒数第几个问题"><a href="#固定间隔指针同时移动：倒数第几个问题" class="headerlink" title="固定间隔指针同时移动：倒数第几个问题"></a>固定间隔指针同时移动：倒数第几个问题</h4><h4 id="vector：将链表中的节点存在随机访问容器中"><a href="#vector：将链表中的节点存在随机访问容器中" class="headerlink" title="vector：将链表中的节点存在随机访问容器中"></a>vector：将链表中的节点存在随机访问容器中</h4><h3 id="数组类"><a href="#数组类" class="headerlink" title="数组类"></a>数组类</h3><h4 id="翻转"><a href="#翻转" class="headerlink" title="翻转"></a>翻转</h4><h4 id="调整边界：矩阵类"><a href="#调整边界：矩阵类" class="headerlink" title="调整边界：矩阵类"></a>调整边界：矩阵类</h4><h4 id="取余"><a href="#取余" class="headerlink" title="取余"></a>取余</h4><h4 id="双指针"><a href="#双指针" class="headerlink" title="双指针"></a>双指针</h4><h4 id="滑动窗口"><a href="#滑动窗口" class="headerlink" title="滑动窗口"></a>滑动窗口</h4><h4 id="哈希表"><a href="#哈希表" class="headerlink" title="哈希表"></a>哈希表</h4><h3 id="花了很长时间的题-面试题"><a href="#花了很长时间的题-面试题" class="headerlink" title="花了很长时间的题&#x2F;面试题"></a>花了很长时间的题&#x2F;面试题</h3><h4 id="四则运算"><a href="#四则运算" class="headerlink" title="四则运算"></a>四则运算</h4><h4 id="单例模式"><a href="#单例模式" class="headerlink" title="单例模式"></a>单例模式</h4>]]></content>
+    
+    
+    <categories>
+      
+      <category>leetcode</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>用github page搭建个人网站</title>
     <link href="/2024/11/24/build_my_blog/"/>
     <url>/2024/11/24/build_my_blog/</url>
