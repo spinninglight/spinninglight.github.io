@@ -1,5 +1,6 @@
 ---
 title: 用github page搭建个人网站
+excerpt: 从jekyll到hexo
 date: 2024-11-24 20:37:00
 ---
 ## 2024.11.24更新

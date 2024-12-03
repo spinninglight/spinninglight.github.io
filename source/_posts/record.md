@@ -1,5 +1,6 @@
 ---
 title: 11月周记
+excerpt: 记录生活
 date: 2024-11-25 21:00:00
 categories:
   - 记录

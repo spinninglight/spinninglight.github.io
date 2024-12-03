@@ -11,6 +11,8 @@ author: 旋光
 language: zh-CN
 timezone: ''
 
+favicon: /img/light.jpg
+
 navbar:
   # 导航栏左侧的标题，为空则按 hexo config 中 `title` 显示
   # The title on the left side of the navigation bar. If empty, it is based on `title` in hexo config
@@ -22,6 +24,11 @@ index:
     # 为空则按 hexo config.subtitle 显示
     # If empty, text based on `subtitle` in hexo config
     text: "Love Yourself"
+
+  post_meta:
+    date: true
+    category: true
+    tag: true
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'

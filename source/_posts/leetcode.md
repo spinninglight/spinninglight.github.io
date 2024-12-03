@@ -1,5 +1,6 @@
 ---
 title: 11月刷题总结
+excerpt: 随手记
 date: 2024-11-25 20:37:00
 categories:
   - leetcode
