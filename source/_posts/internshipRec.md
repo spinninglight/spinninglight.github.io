@@ -3,8 +3,10 @@ title: 实习总结
 excerpt: 总结一下实习中学到的技术和感想
 date: 2024-12-16 11:37:00
 categories:
-  - 记录
   - 技术
+tags:
+  - 编程经验
+banner_img: /img/post/fulilian.png
 ---
 
 ## 微服务架构

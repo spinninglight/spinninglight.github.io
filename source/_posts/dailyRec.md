@@ -4,6 +4,7 @@ excerpt: 关于我心情愉悦所以写一篇日记这件事
 date: 2024-12-17 18:38:00
 categories:
   - 记录
+banner_img: /img/post/weimei.jpg
 ---
 
 

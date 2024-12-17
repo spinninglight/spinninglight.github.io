@@ -16,7 +16,7 @@ favicon: /img/light.jpg
 navbar:
   # 导航栏左侧的标题，为空则按 hexo config 中 `title` 显示
   # The title on the left side of the navigation bar. If empty, it is based on `title` in hexo config
-  blog_title: 辉的博客
+  blog_title: 米花町の大学生
 
 index:
   slogan:
@@ -29,6 +29,8 @@ index:
     date: true
     category: true
     tag: true
+
+  banner_img: /img/bg/night.jpg
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
